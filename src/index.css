@@ -110,3 +110,26 @@ footer {
   margin-top: 30px;
   text-align: center;
 }
+
+
+nav {
+  background-color: #333;
+  color: #fff;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+li {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+li:hover {
+  text-decoration: underline;
+}
+
